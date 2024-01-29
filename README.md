@@ -8,4 +8,4 @@ Department: Department of University Studies
 University: The University of Texas Arlington  
 Level: Junior    
 Position Title: Student  
-Course Webpage: www.cdslabs.org  
+Course Webpage: [Amir's Homepage](www.cdslabs.org)  
