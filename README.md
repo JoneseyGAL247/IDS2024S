@@ -21,3 +21,12 @@ This repository contains my homework, quizzes, and virtually every effort that I
 
 > I have bit failed. I have just found 1000 ways that won't work.  
 > Thomas Edison  
+
+For questions and troubleshooting, contact:  
+Amir Shahmoradi  
+shahmoradi@uttexas.edu  
+Assistant Professor of Data Science  
+University Texas At Arlington  
+
+
+
