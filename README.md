@@ -19,5 +19,5 @@ This repository contains my homework, quizzes, and virtually every effort that I
 
   + [exam](./quiz): This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
 
-> I have bit failed. I have just found 1000 ways that won't work.
-> Thomas Edison
+> I have bit failed. I have just found 1000 ways that won't work.  
+> Thomas Edison  
