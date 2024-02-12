@@ -1,0 +1,19 @@
+This is Raven Jones Quiz 1 IDS2024S
+Main Directory. We choose to use .md files to direct the main files to source in order to recieve a positive command input.
+No instead it will display an error message saying there is no folder available.about 
+No, some git  projects do not require a .git folder to function as a project.
+The purpose of the .git folders in GIT projects is to help locate the project with in the computer when doing a GIT project.
+A Linux System Bash command does create a compatible version of bash terminals for the users who are not Windows or MAC users.
+A Linux system ls -a does list all the files, folders in the home directory of the computer.
+Linux Bash pwd command displays the current of where the user current is within the computer. This also prints the path to the home directory system due to already being inside the home directory system.
+1) We have the modified but staged area;this area is modified by the computer user meaning that GIT/MERCURIAL has no track of the file changes and this means if the file is removed GIT cannot recover the file. 2) Stage before commit when the developer modifies a file it can be added to the GIT stagging area be commited later to the repository, stagging area means a file generally contained in projects repository(.git directory), stores information about what will go next into the repository. Another word for "Stagging Area' is called Index. 3) Committed to the repository is the third and final area within a GIT project, once the staged files are committed to the repository they permantely become part of the project and can later be extracted for futher use in the future.
+VCS(Version Control System): Is system software that records changes to a file or set of files over time so one can recall specific version later.
+The 6 major benefits of using distributed vcs is 1) Full back up, 2) Realiable data saving, 3)clones project, 4) Implemntations, 5) Can use mutliple computers, 6) 3 versions available.
+1)Local VCS, 2) Centralized VCS, and 3) Distributed VCS.
+Git is more of a version control software whereas GITHUB is more of our central remote repositiory.
+the command "git status" checks on the status over the overall git project via(gitbash or git hub).
+The command " git push --all" this helps add a new stagg modifiable file to your git project.
+The command "git pull" this pulls a latest revision of your git project in case it is deleted etc..
+A Markdown is a way to help you use backslash escapes
+by adding two of these ** to to the markdown
+
