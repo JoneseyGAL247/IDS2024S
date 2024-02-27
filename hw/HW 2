@@ -1,6 +1,6 @@
 Photo: ![Program History Chart PDF File!](https://www.cdslab.org/IDS2024S/homework/2/progLangChartPuzzle.pdf) 
 git add . 
-git commit -m "progLangChartPuzzle" 
+git comm
  ENIAC stands for Electronical Numerical Integrator and Computer the earliest computer created in 1945-1950's
 Because, the computer does not speak english it communnicates with binary codes which is 0 and 1. Binary coding lanugauge is the foundation of computer computing language and integers are whole numbers that does not have any fractions or decimals without binary language the computer cannot compute results.
 RAM(Random Access Memory) 
@@ -10,13 +10,14 @@ A.central processing language uses Assembly Language which provides a symoblic r
 A. Fortran. B. Approximately Fortran is more than ±60 years old. Fortran was invented in the 1950's decade.
 A. ARM. B. They are classified as Third generation programming languages.
 Created around the 1970's-late 1980's
-
-
-
-
-
-
-
-
-
+Fortran is MATLAB'S predecessor and ABC is pyhton's predecessor
+According to recent times the CPU Cache is considered the fastest memory within the computer hiearchy system/model.
+The smallest form of data in the computer is called a bit.
+3x times as fast versus the RAM which was slower back in the days.
+RAM storage is slightly faster than it's predecessor SSD drive.
+Access memory is slightly faster than the RAM.
+Transistors are known as building blocks for the computers; Also transistors help with amplifying, switching, logic gates, Memory Cells, Microprocessor, CPU, Signal Processing, and Power Regulation of a computer.
+Transistor does help computers ,but adding too many will cause side effects such as overheating, fire, short circuit, too much power consumption, interconnection complexity, system malfunctions, Diminishing Returns, and physical limits all are reason why we should not add more transistors to a computer than there already is.
+Withig a computing cycle the job of the CPU is to fetch data, decode and excute commands that the user inputted inside the computer.
+Yes, it is many factors that will cause a higher powered computer with more cpu cyvles  to move slower than a lower powered computer with less cycles. This is because factors such as clock speed, Memory Hiearchy, and many more factors will cause this to happen.
 
